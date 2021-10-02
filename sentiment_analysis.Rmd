@@ -7,7 +7,7 @@ output: html_document
 
 # Introduction
 
-For this lesson we are going to work as a class to operationalize a set of questions around sentiment analysis. We will be going through the entire process of writing an analysis report by filling in the BLANKS. You will be given code snippets with prompts. You will be asked to complete these to your own specifications as we get dive deeper into the questions. 
+For this lesson we are going to work as a class to operationalize a set of questions around sentiment analysis. We will be going through the entire process of writing an analysis report by filling in the BLANKS. You will be given code snippets with prompts. You will be asked to complete these to your own specifications as we get dive deeper into the questions. hjk
 
 ## Workflow
 
